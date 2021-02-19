@@ -23,5 +23,5 @@ foreach ($user in $userList)
     Add-Content -Path $domainList -Value $results -Encoding UTF8
 }
 
-###Stopping Transcript
+###Stopping the Transcript
 Stop-Transcript
