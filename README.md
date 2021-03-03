@@ -1,4 +1,4 @@
-My App
+GitHub Repo for IT3080C
 =======
 
 # This is my app
