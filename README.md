@@ -2,7 +2,6 @@ GitHub Repo for IT3080C
 =======
 
 # Lab 7 
-# PowerShell Module: AnyBox
 
 This will walk through how to install and use AnyBox Module for PowerShell. 
 This module allows for a message box or input box from the user while using PowerShell.
