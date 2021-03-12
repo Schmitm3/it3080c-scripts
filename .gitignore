@@ -1,5 +1,4 @@
 .pycache
 npm
 *.log
-*.txt
 node_modules
